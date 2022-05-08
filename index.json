@@ -42,8 +42,98 @@
         "price": "66780",
         "image": "https://m.media-amazon.com/images/I/61rIE9HGXdL._AC_SL1000_.jpg"
     }
-]}
+],"products2":[
+    {
+        "name": "Lionet paws ",
+        "marca": "lionet paws",
+        "text": "paws Bandana para perros pequeños, medianos y grandes, pañuelo de perro para perro, bufanda triangular para niña o niño",
+        "price": "64000",
+        "image": "https://m.media-amazon.com/images/I/71mjrmB-g6L._AC_SX679_.jpg"
+    },
+    {
+        "name": "Elegant little tail",
+        "marca": "Elegant little tail",
+        "text": "Pañuelos para perros, 1 paquete de bufanda lavable con estampado floral para perros medianos y grandes",
+        "price": "33333",
+        "image": "https://m.media-amazon.com/images/I/81PZ1XObYyL._AC_SX679_.jpg"
+    },
+    {
+        "name": "YHTWIN ",
+        "marca": "NaCtty",
+        "text": "Bufanda azul para perro con diseño de cuadros de Big Brother, pañuelo para perro, adorno para mascotas, accesorio para fotos de género, regalo para el dueño de los amantes del perro",
+        "price": "45000",
+        "image": "https://m.media-amazon.com/images/I/61xp-2bpSXL._AC_SX679_.jpg"
+    },
+    {
+        "name": "Faleela Breakaway",
+        "marca": "Faleela",
+        "text": "Collar de gato con campanas, paquete de 2 collares para gatos con campanas, collares para gatos con bandana, accesorios para collares de mascotas, ajustable para gatos y perros pequeños",
+        "price": "21500",
+        "image": "https://m.media-amazon.com/images/I/614lIM+1L8L._AC_SX522_.jpg"
+    },
+    {
+        "name": "Pajarita de gato",
+        "marca": "PTDECOR",
+        "text": "collar bandana  paquete de 2 collar floral gato gatito con pajarita y bandana ajustable collar de corbata de gato con campana para gato cachorro (azul)",
+        "price": "25000",
+        "image": "https://m.media-amazon.com/images/I/71XNUWSr1+L._AC_SX522_.jpg"
+    },
+    {
+        "name": "PetSoKoo ",
+        "marca": "PetSoKoo ",
+        "text": "Lindo collar de orejas de conejito con campana, estampado árabesco antiguo, dije de la suerte japonesa candice-Descanso de seguridad, suave, para niñas, niños, hombres, mujeres, gatos, rojo",
+        "price": "67000",
+        "image": "https://m.media-amazon.com/images/I/61i3+bI9mtL._AC_SX679_.jpg"
+    }
+],"products3":[
+    {
+        "name": "",
+        "marca": "",
+        "text": "",
+        "price": "",
+        "image": ""
+    },
+    {
+        "name": "",
+        "marca": "",
+        "text": "",
+        "price": "",
+        "image": ""
+    },
+    {
+        "name": "",
+        "marca": "",
+        "text": "",
+        "price": "",
+        "image": ""
+    },
+    {
+        "name": "",
+        "marca": "",
+        "text": "",
+        "price": "",
+        "image": ""
+    },
+    {
+        "name": "",
+        "marca": "",
+        "text": "",
+        "price": "",
+        "image": ""
+    },
+    {
+        "name": "",
+        "marca": "",
+        "text": "",
+        "price": "",
+        "image": ""
+    }]}
 
+
+
+
+
+    
 
 
 
