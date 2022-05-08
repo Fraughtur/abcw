@@ -1,15 +1,25 @@
 
 {"products":[
     {
-        "name": "KISSBAK",
+        "name": "Collar Floral cachorro ",
+        "marca": "KISSBAK",
         "text": "Collar de perro para perros pequeños, diseño especial personalizado, lindo collar para cachorro, perra pequeña y grande, mujer, collar suave y ajustable para perros (girasol, S)",
         "price": "64000",
         "image": "https://m.media-amazon.com/images/I/71zbOyKn-jS._AC_SX679_.jpg"
     },
     {
-        "name": "SKCSMNW",
-        "text": "lorem30",
-        "price": "32000"
+        "name": "Collar Floral",
+        "marca": "LEJGEQR",
+        "text": "Collar para perros con diseño floral, hebilla de seguridad metálica, collar ajustable con lindo patrón floral para perros cachorros, pequeños, medianos y grandes (Flor naranja, S)",
+        "price": "18000",
+        "image": "https://m.media-amazon.com/images/I/71v281SIznS._AC_SL1500_.jpg"
+    },
+    {
+        "name": "Collar de perro Sharp Beirui",
+        "marca": "LEJGEQR",
+        "text": "Collar de perro Sharp Beirui con remaches de puyas, collares de perro de cuero con estilo, 2 pulgadas de ancho apto para perros medianos y grandes, Rojo",
+        "price": "12000",
+        "image": "https://m.media-amazon.com/images/I/61GBKhZ5jmL._AC_SX679_.jpg"
     }
 ]}
 
