@@ -1,14 +1,16 @@
 
-
+{"products":[
     {
         "name": "KISSBAK",
         "text": "Collar de perro para perros pequeños, diseño especial personalizado, lindo collar para cachorro, perra pequeña y grande, mujer, collar suave y ajustable para perros (girasol, S)",
-        "price": "64000",
+        "price": "64000"
+    },
+    {
         "name2": "SKCSMNW",
         "text2": "lorem30",
         "price2": "32000"
     }
-
+]}
 
 
 
